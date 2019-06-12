@@ -1,20 +1,64 @@
 # Meesterproef 2019
 
-## Oplevercriteria
+## Table of Contents
 
-### Design rationale
-Verantwoording van het ontwerp...
+1. [Introduction](#Introduction)
+2. [Process](#Process)
+3. [Design rational](#Design-rational)
+4. [Product biography](#Product-biography)
+5. [Reflection](#Reflection)
 
-### Product biografie
-Doorlopen iteratieve proces... 
+## Introduction
 
-### Reflectie op eigen niveau
-Aan de hand van de relevante vakrubrics...
+During the master test I worked on a project for [Wallscope](https://wallscope.co.uk/).
+Wallscope is a company based in Edinburgh, Scotland.
 
-### Een blije klant
-De klant geeft feedback op het geleverde werk...
+I did this project together with three others: [Chelsea Doeleman](https://github.com/chelseadoeleman), [Jesper Ingels](https://github.com/jesperingels) and [Maikel Sleebos](https://github.com/Senpaizuri).
+While working together we all tried to learn something new and fun. Some parts of design process had some overlap, but we each tried to scope our own pieces of the application. What that learning meant for me can be read later on.
 
-## Werkwijze
-Elke week aan het eind van de week spreek je de klant voor een oplevering van de sprint...
+During this 5 week period we created an experience which enabled medical students, medical researchers and reporters alike to work together on creating _digital cases_.
+These digital cases were formed by searching the Wallscope datasystem, in an intuitive manner, and then group them together in one such case. A case can be a collaboration between multiple users of the system.
+Wallscope gets this data from the [NHS](https://www.scot.nhs.uk/), which is the National Healthcare System of Scotland.
 
-Elke week spreek je je coach voor de voortgang...
+To provide the most use out of the system, we also decided not to restrict the basic search functionality behind an _account wall_. If you were to not be logged in, you simply wouldn't be able to participate in any of the _case_ related activities of the platform.
+
+The project repository can be found [here](https://github.com/Maikxx/360-wallscope).
+
+## Proces
+
+<details>
+<summary>Click here to view week 1</summary>
+
+### Week 1
+
+During the first week we were greeted by Ontero from Wallscope at the UASA.
+We did some initial exchaning of ideas and started talking about logistics of our visit to Edinburgh.
+
+I have to say we had the option to work together with UX designers on this project, but this teamwork didn't feel very good from the start, so we decided to separate ways and each do our own.
+
+We unfortunately only had one day to start planning things out, due to the massive public transport strike in the Netherlands that second day.
+
+Besides this, we made it work and went to Edinburgh on wednesday. We had this day and the evenings to do some touristy stuff.
+
+We ofcourse also did some work on thursday and friday. We were greeted by a lot of people from different kinds of companies representing Scotland, including Wallscope itself and the [NHS](https://www.scot.nhs.uk/).
+On the first workday we mainly did concepting and project scoping (which we did a poor job of seen afterwards).
+
+Even though most reading this, probably know I don't really like this phase, I still think it is very important to bring a good service to life, which is why I happily participated in the brainstorming processes.
+I also did some design research, like the rest of the group on friday, mainly looking at examples of similar systems on Pinterest.
+After doing some design research we all decided to take on the challenge to start designing something in Adobe XD. The result of this can be found [here](https://github.com/Maikxx/360-wallscope/blob/master/docs/BRIEFING_1.md).
+
+After us all designing something, we had to give a presentation to the full crowd at the end of the friday, where we presented our findings and first designs.
+
+</details>
+
+## Design rational
+
+<!-- Verantwoording van het eigen deel van het ontwerp -->
+
+## Product biography
+
+<!-- Doorlopen iteratieve proces -->
+
+### Reflection
+
+<!-- Aan de hand van de relevante vakrubrics... -->
