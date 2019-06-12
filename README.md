@@ -94,6 +94,14 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 
 <!-- Doorlopen iteratieve proces -->
 
-### Reflection
+## Reflection
+
+Focus/learning points:
+
+* **WAFS** - Application structure
+* **Performance matters** - Includes perceived and a little bit of actual performance optimizations.
+* Database management with PostgreSQL
+* Unit testing and/or end-to-end testing (_if I have time and a use case for it_)
+* ?
 
 <!-- Aan de hand van de relevante vakrubrics... -->
