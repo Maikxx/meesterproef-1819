@@ -4,10 +4,9 @@
 
 1. [Introduction](#Introduction)
 2. [Focus points](#Focus-points)
-3. [Process](#Process)
-4. [Design rational](#Design-rational)
-5. [Product biography](#Product-biography)
-6. [Reflection](#Reflection)
+3. [Design rational](#Design-rational)
+4. [Product biography](#Product-biography)
+5. [Reflection](#Reflection)
 
 ## Introduction
 
@@ -33,23 +32,24 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
     * Actor / Interaction / Data flow diagrams.
     * _Nice to have_ -> end-to-end testing.
 * **CSS To The Rescue**
-    * Use BEM and SCSS to structure stylesheets.
+    * Use [BEM](http://getbem.com/) and [SCSS](https://sass-lang.com/) to structure stylesheets.
 * **Browser Technologies**
     * _Nice to have_ -> Progressive enhancement with Next.js.
 * **Performance Matters**
-    * Create performant PostgreSQL queries.
+    * Create performant [PostgreSQL](https://www.postgresql.org/) queries.
     * _Nice to have_ -> Minimize all outgoing files.
 * **Real-Time Web**
-    * Smart data management. Redux? Global state? Happy flow -> Client first, trace back in case of an error.
+    * Smart data management. [Redux](https://redux.js.org/)? Global state? Happy flow -> Client first, trace back in case of an error.
 
-## Proces
+## Design rational
 
-<details>
-<summary>Click here to view week 1</summary>
+<!-- Verantwoording van het ontwerp -->
 
-### Week 1
+## Product biography
 
-During the first week we were greeted by Ontero from Wallscope at the UASA.
+## Week 1
+
+During the first week we were greeted by Ontero from [Wallscope](https://wallscope.co.uk/) at the AUAS.
 We did some initial exchaning of ideas and started talking about logistics of our visit to Edinburgh.
 
 I have to say we had the option to work together with UX designers on this project, but this teamwork didn't feel very good from the start, so we decided to separate ways and each do our own.
@@ -58,7 +58,7 @@ We unfortunately only had one day to start planning things out, due to the massi
 
 Besides this, we made it work and went to Edinburgh on wednesday. We had this day and the evenings to do some touristy stuff.
 
-We ofcourse also did some work on thursday and friday. We were greeted by a lot of people from different kinds of companies representing Scotland, including Wallscope itself and the [NHS](https://www.scot.nhs.uk/).
+We ofcourse also did some work on thursday and friday. We were greeted by a lot of people from different kinds of companies representing Scotland, including [Wallscope](https://wallscope.co.uk/) itself and the [NHS](https://www.scot.nhs.uk/).
 On the first workday we mainly did concepting and project scoping (which we did a poor job of seen afterwards).
 
 Even though most reading this, probably know I don't really like this phase, I still think it is very important to bring a good service to life, which is why I happily participated in the brainstorming processes.
@@ -69,17 +69,14 @@ After us all designing something, we had to give a presentation to the full crow
 
 We unfortunately did not have time to talk with Joost about our progress this week.
 
-</details>
-
-<details>
-<summary>Click here to view week 2</summary>
-
-### Week 2
+## Week 2
 
 During the second week we quickly had a talk with Joost about our concepts for the project.
 We pretty much got to hear what we had already thought, which was that the concept was too broad and difficult to really make something fun out of.
 
-We decided to take the route which lead to our current concept at the moment of writing, which is written above. We Skype called Wallscope about this in the afternoon to confirm this concept was still useful for them, which they confirmed it was.
+We decided to take the route which lead to our current concept at the moment of writing, which is written above. We Skype called [Wallscope](https://wallscope.co.uk/) about this in the afternoon to confirm this concept was still useful for them, which they confirmed it was.
+
+They also noted a couple of new technologies for me, to might start using if we were to try out [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) on our own: [Solr](http://lucene.apache.org/solr/) and Solid, which is a backend framework (I believe).
 
 At the start of this week I still focussed on improving that design that was created the week before.
 At some point we all decided to start merging things together into one design and to stick with that.
@@ -89,28 +86,22 @@ You can find more about these updated designs [here]([here](https://github.com/M
 
 Chelsea decided to merge the other designs into hers, since we all thought her designs were the furthest and best.
 
-For the rest of the week I mainly started my technical (lead, which I think is a very stupid thing to name myself but it kind of has some sence to it) role. I started creating the full boilerplate in React, TypeScript and SCSS.
+For the rest of the week I mainly started my technical (lead, which I think is a very stupid thing to name myself but it kind of has some sence to it) role. I started creating the full boilerplate in [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [SCSS](https://sass-lang.com/).
 At this point I still thought a little bit about myself too much, which I stubbed my toe on later, since I didn't realize these technologies were not common to everyone.
 
-We collectively decided to continue using React as it was the easiest of the three major frameworks to learn for all.
+We collectively decided to continue using [React](https://reactjs.org/) as it was the easiest of the three major frameworks to learn for all.
 
-After building this boilerplate a wild _marshmellow_ occurred (as [Elastique](https://elastique.nl/) likes to call it), since I did not yet think of combining a server into this contraption. Rewriting this was kind of a challenge, which took me pretty much the whole week, while the rest started creating React components.
+After building this boilerplate a wild _marshmellow_ occurred (as [Elastique](https://elastique.nl/) likes to call it), since I did not yet think of combining a server into this contraption. Rewriting this was kind of a challenge, which took me pretty much the whole week, while the rest started creating [React](https://reactjs.org/) components.
 
-As the server language I took Node.js wrapped in TypeScript with a PostgreSQL database, since I thought this was best for performance and the database still challenged me enough to learn a lot.
+As the server language I took [Node.js](https://nodejs.org/en/) wrapped in [TypeScript](https://www.typescriptlang.org/) with a [PostgreSQL](https://www.postgresql.org/) database, since I thought this was best for performance and the database still challenged me enough to learn a lot.
 
-I tried to teach the others some basic structuring things like [these version control guidelines](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md) and some React and TypeScript introductions during this week also.
+I tried to teach the others some basic structuring things like [these version control guidelines](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md) and some [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) introductions during this week also.
 
 When I did a talk with Joost, it pretty much confirmed that I already had the WAFS course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
 
-</details>
+### Week 3
 
-## Design rational
-
-<!-- Verantwoording van het ontwerp -->
-
-## Product biography
-
-<!-- Doorlopen iteratieve proces -->
+During the third week we continued where we had left of. For me personally that meant working on the server more, while also helping the others out with some [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) questions.
 
 ## Reflection
 
