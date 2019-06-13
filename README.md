@@ -89,21 +89,19 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 ## Focus points
 
 * **Web App From Scratch**
-    * Structure the application with the help of various modules.
-    * Unit testing (_Only if I can find a use case for it_).
-    * Use TypeScript.
-    * Creating an API.
-    * Create a user flow / class flow.
+    * Structure the application modularly.
+    * Unit testing.
+    * Actor / Interaction / Data flow diagrams.
+    * _Nice to have_ -> end-to-end testing.
 * **CSS To The Rescue**
-    * Use BEM and SCSS to structure files.
+    * Use BEM and SCSS to structure stylesheets.
 * **Browser Technologies**
-    * Progressive disclosure.
-    * Progressive enhancement (_Nice to have_ -> Next.js).
+    * _Nice to have_ -> Progressive enhancement with Next.js.
 * **Performance Matters**
     * Create performant PostgreSQL queries.
+    * _Nice to have_ -> Minimize all outgoing files.
 * **Real-Time Web**
-    * Smart data management. (_Client-side database copy?_).
-    * Data flow diagram.
+    * Smart data management. Redux? Global state? Happy flow -> Client first, trace back in case of an error.
 
 ## Design rational
 
