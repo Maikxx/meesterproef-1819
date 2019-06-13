@@ -100,6 +100,7 @@ Focus/learning points:
 
 * **WAFS** - Application structure
 * **Performance matters** - Includes perceived and a little bit of actual performance optimizations.
+* **Browser Technologies** - Use case scouting
 * Database management with PostgreSQL
 * Unit testing and/or end-to-end testing (_if I have time and a use case for it_)
 * ?
