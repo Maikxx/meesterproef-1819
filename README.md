@@ -86,6 +86,25 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 
 </details>
 
+## Focus points
+
+* **Web App From Scratch**
+    * Structure the application with the help of various modules.
+    * Use TypeScript
+    * Creating an API.
+    * Create a user flow / class flow.
+* **CSS To The Rescue**
+    * Use BEM and SCSS to structure files.
+* **Browser Technologies**
+    * Progressive disclosure.
+    * Progressive enhancement (_Nice to have_ -> Next.js)
+* **Performance Matters**
+    * Create performant PostgreSQL queries.
+    * Perceived performance.
+* **Real-Time Web**
+    * Smart data management. (_Client-side database copy?_)
+    * Application flow / Data life cycle.
+
 ## Design rational
 
 <!-- Verantwoording van het eigen deel van het ontwerp -->
@@ -95,14 +114,5 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 <!-- Doorlopen iteratieve proces -->
 
 ## Reflection
-
-Focus/learning points:
-
-* **WAFS** - Application structure
-* **Performance matters** - Includes perceived and a little bit of actual performance optimizations.
-* **Browser Technologies** - Use case scouting
-* Database management with PostgreSQL
-* Unit testing and/or end-to-end testing (_if I have time and a use case for it_)
-* ?
 
 <!-- Aan de hand van de relevante vakrubrics... -->
