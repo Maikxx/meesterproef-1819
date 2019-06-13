@@ -101,10 +101,9 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
     * Progressive enhancement (_Nice to have_ -> Next.js).
 * **Performance Matters**
     * Create performant PostgreSQL queries.
-    * Perceived performance.
 * **Real-Time Web**
     * Smart data management. (_Client-side database copy?_).
-    * Application flow / Data life cycle.
+    * Data flow diagram.
 
 ## Design rational
 
