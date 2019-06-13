@@ -34,7 +34,9 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 * **CSS To The Rescue**
     * Use [BEM](http://getbem.com/) and [SCSS](https://sass-lang.com/) to structure stylesheets.
 * **Browser Technologies**
-    * _Nice to have_ -> Progressive enhancement with Next.js.
+    * _Nice to have_ -> Progressive enhancement with [Next.js](https://nextjs.org/).
+* **Web design**
+    * User tests
 * **Performance Matters**
     * Create performant [PostgreSQL](https://www.postgresql.org/) queries.
     * _Nice to have_ -> Minimize all outgoing files.
@@ -99,9 +101,23 @@ I tried to teach the others some basic structuring things like [these version co
 
 When I did a talk with Joost, it pretty much confirmed that I already had the WAFS course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
 
+All of these aspects I put on the GitHubs project board as _nice to haves_ initially.
+
 ### Week 3
 
 During the third week we continued where we had left of. For me personally that meant working on the server more, while also helping the others out with some [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) questions.
+
+When I had the code review with Laurens, I didn't have too much focus points for this project prepared yet, which made it go not so smoothly.
+
+I decided for myself after this talk that I wanted to learn more about all the types of diagrams we have come across in this minor, so made myself a goal to create one of each for the application that we are building.
+As far as the application structure that I set up myself, it falls into both Web App From Scratch and CSS To The Rescue, by creating a modular boilerplate with technologies such as [React](https://reactjs.org/), [SCSS](https://sass-lang.com/) and [BEM](http://getbem.com/).
+
+I also wanted to throw some things into the mix which might or might not fall into one of the courses, but which lead me to learning something new, so I went for them anyway.
+This includes mainly the use of a performant database like [PostgreSQL](https://www.postgresql.org/) to improve the performance of the application.
+When talking about this with Laurens he also noted that you can fake performance on the client side as well, by having a global state system and using a _happy flow_.
+A really big goal for me was to render everything server side (with the help of [Next.js](https://nextjs.org/)), since I had never done that before and wanted to know more about it, however the more this gets pushed back, the less likely it will become that I will take on this goal during this project, due to the scale it already takes.
+
+I also added _user testing_ to the list, because the other people of the group also have this goal, and this will happen either way. Besides the fact that it is an easy tick off, I wanted to try this again, because during the course _Web Design_ I only get to test twice, for quite a short period of time.
 
 ## Reflection
 
