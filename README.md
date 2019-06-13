@@ -107,7 +107,7 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 
 ## Design rational
 
-<!-- Verantwoording van het eigen deel van het ontwerp -->
+<!-- Verantwoording van het ontwerp -->
 
 ## Product biography
 
