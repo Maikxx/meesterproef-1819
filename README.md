@@ -90,6 +90,7 @@ When I did a talk with Joost, it pretty much confirmed that I already had the WA
 
 * **Web App From Scratch**
     * Structure the application with the help of various modules.
+    * Unit testing (_Only if I can find a use case for it_)
     * Use TypeScript
     * Creating an API.
     * Create a user flow / class flow.
