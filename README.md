@@ -3,10 +3,11 @@
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Process](#Process)
-3. [Design rational](#Design-rational)
-4. [Product biography](#Product-biography)
-5. [Reflection](#Reflection)
+2. [Focus points](#Focus-points)
+3. [Process](#Process)
+4. [Design rational](#Design-rational)
+5. [Product biography](#Product-biography)
+6. [Reflection](#Reflection)
 
 ## Introduction
 
@@ -23,6 +24,23 @@ Wallscope gets this data from the [NHS](https://www.scot.nhs.uk/), which is the 
 To provide the most use out of the system, we also decided not to restrict the basic search functionality behind an _account wall_. If you were to not be logged in, you simply wouldn't be able to participate in any of the _case_ related activities of the platform.
 
 The project repository can be found [here](https://github.com/Maikxx/360-wallscope).
+
+## Focus points
+
+* **Web App From Scratch**
+    * Structure the application modularly.
+    * Unit testing.
+    * Actor / Interaction / Data flow diagrams.
+    * _Nice to have_ -> end-to-end testing.
+* **CSS To The Rescue**
+    * Use BEM and SCSS to structure stylesheets.
+* **Browser Technologies**
+    * _Nice to have_ -> Progressive enhancement with Next.js.
+* **Performance Matters**
+    * Create performant PostgreSQL queries.
+    * _Nice to have_ -> Minimize all outgoing files.
+* **Real-Time Web**
+    * Smart data management. Redux? Global state? Happy flow -> Client first, trace back in case of an error.
 
 ## Proces
 
@@ -85,23 +103,6 @@ I tried to teach the others some basic structuring things like [these version co
 When I did a talk with Joost, it pretty much confirmed that I already had the WAFS course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
 
 </details>
-
-## Focus points
-
-* **Web App From Scratch**
-    * Structure the application modularly.
-    * Unit testing.
-    * Actor / Interaction / Data flow diagrams.
-    * _Nice to have_ -> end-to-end testing.
-* **CSS To The Rescue**
-    * Use BEM and SCSS to structure stylesheets.
-* **Browser Technologies**
-    * _Nice to have_ -> Progressive enhancement with Next.js.
-* **Performance Matters**
-    * Create performant PostgreSQL queries.
-    * _Nice to have_ -> Minimize all outgoing files.
-* **Real-Time Web**
-    * Smart data management. Redux? Global state? Happy flow -> Client first, trace back in case of an error.
 
 ## Design rational
 
