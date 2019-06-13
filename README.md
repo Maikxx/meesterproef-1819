@@ -7,6 +7,7 @@
 3. [Design rational](#Design-rational)
 4. [Product biography](#Product-biography)
 5. [Reflection](#Reflection)
+6. [Todo](#Todo)
 
 ## Introduction
 
@@ -128,3 +129,7 @@ We reached out to [Wallscope](https://wallscope.co.uk/) for this issue and they 
 ## Reflection
 
 <!-- Aan de hand van de relevante vakrubrics... -->
+
+## Todo
+
+* [ ] Add sketches (if there are any)
