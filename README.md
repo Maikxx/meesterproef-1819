@@ -66,9 +66,27 @@ On the first workday we mainly did concepting and project scoping (which we did 
 
 Even though most reading this, probably know I don't really like this phase, I still think it is very important to bring a good service to life, which is why I happily participated in the brainstorming processes.
 I also did some design research, like the rest of the group on friday, mainly looking at examples of similar systems on Pinterest. On [this Pinterest board](https://nl.pinterest.com/chelsea_doelema/wallscope-web-dev/) you can view my influx of design inspiration.
+
 After doing some design research we all decided to take on the challenge to start designing something in Adobe XD. The result of this can be found [here](https://github.com/Maikxx/360-wallscope/blob/master/docs/BRIEFING_1.md).
 
-After us all designing something, we had to give a presentation to the full crowd at the end of the friday, where we presented our findings and first designs.
+<details>
+    <summary>Adobe XD designs from me</summary>
+
+![login](./assets/design/login.png)
+![signup](./assets/design/signup.png)
+![landing](./assets/design/landing.png)
+![boards](./assets/design/boards.png)
+![results](./assets/design/results.png)
+![detail](./assets/design/detail.png)
+![detail-add-to-board](./assets/design/detail-add-to-board.png)
+![boards-new-board](./assets/design/boards-new-board.png)
+![boards-detail](./assets/design/boards-detail.png)
+![boards-detail-article](./assets/design/boards-detail-article.png)
+![boards-detail-article-edit](./assets/design/boards-detail-article-edit.png)
+
+</details>
+
+After us all designing something, we had to give a presentation to the full crowd at the end of the friday, where we presented our findings and first designs. Maikel S. and me did the presentation, although I didn't speak one word. I only was there for the case where he lost track, which he didn't, which was great.
 
 We unfortunately did not have time to talk with Joost about our progress this week.
 
