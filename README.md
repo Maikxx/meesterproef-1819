@@ -120,7 +120,7 @@ I tried to teach the others some basic structuring things like [these version co
 
 When I did a talk with Joost, it pretty much confirmed that I already had the WAFS course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
 
-All of these aspects I put on the GitHubs project board as _nice to haves_ initially.
+All of these aspects I put on the [GitHub project board](https://github.com/Maikxx/360-wallscope/projects/1) as _nice to haves_ initially. Here you will also find all the things that I worked on.
 
 ### Week 3
 
