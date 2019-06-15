@@ -28,12 +28,12 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 ## Focus points
 
 * **Web App From Scratch**
-    * Structure the application modularly.
-    * Unit testing.
+    * Structure the application modularly. ✅
+    * Unit testing. ✅
     * Actor / Interaction / Data flow diagrams.
     * _Nice to have_ -> end-to-end testing.
 * **CSS To The Rescue**
-    * Use [BEM](http://getbem.com/) and [SCSS](https://sass-lang.com/) to structure stylesheets.
+    * Use [BEM](http://getbem.com/) and [SCSS](https://sass-lang.com/) to structure stylesheets. ✅
 * **Browser Technologies**
     * _Nice to have_ -> Progressive enhancement with [Next.js](https://nextjs.org/).
 * **Web design**
