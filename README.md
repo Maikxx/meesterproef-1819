@@ -31,6 +31,7 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
     * Structure the application modularly. ✅
     * Unit testing. ✅
     * Actor / Interaction / Data flow diagrams.
+    * Refactoring ✅
     * _Nice to have_ -> end-to-end testing.
 * **CSS To The Rescue**
     * Use [BEM](http://getbem.com/) and [SCSS](https://sass-lang.com/) to structure stylesheets. ✅
@@ -39,7 +40,7 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 * **Web design**
     * User tests
 * **Performance Matters**
-    * Create performant [PostgreSQL](https://www.postgresql.org/) queries.
+    * Create performant [PostgreSQL](https://www.postgresql.org/) queries. ✅
     * _Nice to have_ -> Minimize all outgoing files.
 * **Real-Time Web**
     * Smart data management. [Redux](https://redux.js.org/)? Global state? Happy flow -> Client first, trace back in case of an error.
@@ -157,6 +158,21 @@ I decided it would be best to show Wallscope the updated designs and explain why
 I didn't get the thing to work in the way that I wanted it to work and the way it worked on other places in the application, so I once again decided to outsmart the system by writing a hacky solution to get it to work either way.
 I did however first try to ask for help to people, which I normally never really do, so that is also something new. This, unfortunately though, did not help. Meaning I had to go the hacky solution way.
 Maybe I just wasn't fully focussed on the project this afternoon. It did, however, made me realize not everything will go well right away. This counts for all aspects in life too. Life lessons learned from such a stupid moment while working on a project are always the most valuable.
+
+### Week 4
+
+In the first few days of week four a lot of things went wrong, communication with Wallscope, and the fact that we were terribly behind on schedule.
+Also, as some teachers have noticed, my personal motivation vanished quickly, which made it way harder for me to crawl upon schedule.
+
+I mainly worked on getting some integration done in the application in the first few days, although it went very slowly. Here it is that I started to notice this job will definately not be suitable for me full-time, which is also good to know, I guess.
+
+When talking with Joost, he told me to focus on creating a solid working layer, over trying to get everything to work a little bit, which is what we then all started focussing on. This also meant that I would now start to fake things and rush in order for us to reach the deadline.
+
+This also meant that I didn't focus a lot anymore on clean data management, real-time connectivity or performance.
+
+I did, however, end up rewriting some queries to be way faster, using PostgreSQL `joins`. Which I learned about during this test.
+
+I also started refactoring a lot of code to meet my refactor goal.
 
 ## Reflection
 
