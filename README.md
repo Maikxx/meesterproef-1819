@@ -40,7 +40,7 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 * **Web design**
     * User tests
 * **Performance Matters**
-    * Create performant [PostgreSQL](https://www.postgresql.org/) queries. ✅
+    * Create performing [PostgreSQL](https://www.postgresql.org/) queries. ✅
     * _Nice to have_ -> Minimize all outgoing files.
 * **Real-Time Web**
     * Smart data management. [Redux](https://redux.js.org/)? Global state? Happy flow -> Client first, trace back in case of an error.
@@ -53,8 +53,8 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 
 ## Week 1
 
-During the first week we were greeted by Ontero from [Wallscope](https://wallscope.co.uk/) at the AUAS.
-We did some initial exchaning of ideas and started talking about logistics of our visit to Edinburgh.
+During the first week we were greeted by Antero from [Wallscope](https://wallscope.co.uk/) at the AUAS.
+We did some initial exchanging of ideas and started talking about logistics of our visit to Edinburgh.
 
 I have to say we had the option to work together with UX designers on this project, but this teamwork didn't feel very good from the start, so we decided to separate ways and each do our own.
 
@@ -62,7 +62,7 @@ We unfortunately only had one day to start planning things out, due to the massi
 
 Besides this, we made it work and went to Edinburgh on wednesday. We had this day and the evenings to do some touristy stuff.
 
-We ofcourse also did some work on thursday and friday. We were greeted by a lot of people from different kinds of companies representing Scotland, including [Wallscope](https://wallscope.co.uk/) itself and the [NHS](https://www.scot.nhs.uk/).
+We of course also did some work on thursday and friday. We were greeted by a lot of people from different kinds of companies representing Scotland, including [Wallscope](https://wallscope.co.uk/) itself and the [NHS](https://www.scot.nhs.uk/).
 On the first workday we mainly did concepting and project scoping (which we did a poor job of seen afterwards).
 
 Even though most reading this, probably know I don't really like this phase, I still think it is very important to bring a good service to life, which is why I happily participated in the brainstorming processes.
@@ -74,7 +74,7 @@ After doing some design research we all decided to take on the challenge to star
     <summary>Adobe XD designs from me</summary>
 
 ![login](./assets/design/login.png)
-![signup](./assets/design/signup.png)
+![sign up](./assets/design/signup.png)
 ![landing](./assets/design/landing.png)
 ![boards](./assets/design/boards.png)
 ![results](./assets/design/results.png)
@@ -108,18 +108,18 @@ You can find more about these updated designs [here]([here](https://github.com/M
 
 Chelsea decided to merge the other designs into hers, since we all thought her designs were the furthest and best.
 
-For the rest of the week I mainly started my technical (lead, which I think is a very stupid thing to name myself but it kind of has some sence to it) role. I started creating the full boilerplate in [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [SCSS](https://sass-lang.com/).
+For the rest of the week I mainly started my technical (lead, which I think is a very stupid thing to name myself but it kind of has some sense to it) role. I started creating the full boilerplate in [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [SCSS](https://sass-lang.com/).
 At this point I still thought a little bit about myself too much, which I stubbed my toe on later, since I didn't realize these technologies were not common to everyone.
 
 We collectively decided to continue using [React](https://reactjs.org/) as it was the easiest of the three major frameworks to learn for all.
 
-After building this boilerplate a wild _marshmellow_ occurred (as [Elastique](https://elastique.nl/) likes to call it), since I did not yet think of combining a server into this contraption. Rewriting this was kind of a challenge, which took me pretty much the whole week, while the rest started creating [React](https://reactjs.org/) components.
+After building this boilerplate a wild _marshmallow_ occurred (as [Elastique](https://elastique.nl/) likes to call it), since I did not yet think of combining a server into this contraption. Rewriting this was kind of a challenge, which took me pretty much the whole week, while the rest started creating [React](https://reactjs.org/) components.
 
 As the server language I took [Node.js](https://nodejs.org/en/) wrapped in [TypeScript](https://www.typescriptlang.org/) with a [PostgreSQL](https://www.postgresql.org/) database, since I thought this was best for performance and the database still challenged me enough to learn a lot.
 
 I tried to teach the others some basic structuring things like [these version control guidelines](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md) and some [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) introductions during this week also.
 
-When I did a talk with Joost, it pretty much confirmed that I already had the WAFS course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
+When I did a talk with Joost, it pretty much confirmed that I already had the Web App From Scratch course in the pocket, however that I needed more focus points, mainly for myself to learn. For example, the addition of real-time connectivity if it was possible in context and time, as well as the ability for me to learn something about Unit and End-to-end testing.
 
 All of these aspects I put on the [GitHub project board](https://github.com/Maikxx/360-wallscope/projects/1) as _nice to haves_ initially. Here you will also find all the things that I worked on.
 
@@ -133,7 +133,7 @@ I decided for myself after this talk that I wanted to learn more about all the t
 As far as the application structure that I set up myself, it falls into both Web App From Scratch and CSS To The Rescue, by creating a modular boilerplate with technologies such as [React](https://reactjs.org/), [SCSS](https://sass-lang.com/) and [BEM](http://getbem.com/).
 
 I also wanted to throw some things into the mix which might or might not fall into one of the courses, but which lead me to learning something new, so I went for them anyway.
-This includes mainly the use of a performant database like [PostgreSQL](https://www.postgresql.org/) to improve the performance of the application.
+This includes mainly the use of a performing database like [PostgreSQL](https://www.postgresql.org/) to improve the performance of the application.
 When talking about this with Laurens he also noted that you can fake performance on the client side as well, by having a global state system and using a _happy flow_.
 A really big goal for me was to render everything server side (with the help of [Next.js](https://nextjs.org/)), since I had never done that before and wanted to know more about it, however the more this gets pushed back, the less likely it will become that I will take on this goal during this project, due to the scale it already takes.
 
@@ -145,7 +145,7 @@ Our infrastructure now started to heavily rely on this data, which also lead me 
 
 We reached out to [Wallscope](https://wallscope.co.uk/) for this issue and they responded within half a day with a lot of helpful new things, like a data sample set, which I have no idea yet how to get around at this point.
 
-On thursday I started to take on the challenge of **unit testing**, which appeared to be not such a big challenge if done well. I think that I will write an article about this. The awesome thing that happend here when installing these unit testing service ([mocha](https://mochajs.org/) and [chai](https://www.chaijs.com/)) and started writing little tests for something I though would go right always, didn't pass the tests, due to a typo in the actual code that was being tested! Great stuff, there is the real value!
+On thursday I started to take on the challenge of **unit testing**, which appeared to be not such a big challenge if done well. I think that I will write an article about this. The awesome thing that happened here when installing these unit testing service ([mocha](https://mochajs.org/) and [chai](https://www.chaijs.com/)) and started writing little tests for something I though would go right always, didn't pass the tests, due to a typo in the actual code that was being tested! Great stuff, there is the real value!
 
 I also decided to **refactor** the whole server, since it was about to drive me nuts. I had files with 400 lines of code in it, with a lot of repetition. I split these files up into smaller ones, and removed the repetition where possible. I hope it now scales a little bit more, so that I can work on it for two more weeks without losing my mind (this is the largest server project that I have built to date, so yeah).
 
@@ -164,7 +164,7 @@ Maybe I just wasn't fully focussed on the project this afternoon. It did, howeve
 In the first few days of week four a lot of things went wrong, communication with Wallscope, and the fact that we were terribly behind on schedule.
 Also, as some teachers have noticed, my personal motivation vanished quickly, which made it way harder for me to crawl upon schedule.
 
-I mainly worked on getting some integration done in the application in the first few days, although it went very slowly. Here it is that I started to notice this job will definately not be suitable for me full-time, which is also good to know, I guess.
+I mainly worked on getting some integration done in the application in the first few days, although it went very slowly. Here it is that I started to notice this job will definitely not be suitable for me full-time, which is also good to know, I guess.
 
 When talking with Joost, he told me to focus on creating a solid working layer, over trying to get everything to work a little bit, which is what we then all started focussing on. This also meant that I would now start to fake things and rush in order for us to reach the deadline.
 
