@@ -174,6 +174,10 @@ I did, however, end up rewriting some queries to be way faster, using PostgreSQL
 
 I also started refactoring a lot of code to meet my refactor goal.
 
+When speaking to Laurens, I had to express that I am totally burnt out with this project and that I no longer am able to do a lot more things to the project.
+
+The final days of this week I mainly started to focus on writing the articles and documentation for the weekly mingles.
+
 ## Reflection
 
 <!-- Aan de hand van de relevante vakrubrics... -->
