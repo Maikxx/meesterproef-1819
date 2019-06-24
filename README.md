@@ -178,6 +178,12 @@ The final days of this week I mainly started to focus on writing the articles an
 
 I also heard from Joost, Koop and Laurens that I had already showed my skills and shouldn't focus on achieving a lot more of the goals and focus on getting better.
 
+### Week 5
+
+At the start of this week I mainly focussed on getting the production environment ready to deploy to.
+
+Besides that I started to work on the documentation of the application and my own reflection.
+
 ## Reflection
 
 ### Web App From Scratch
