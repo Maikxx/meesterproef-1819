@@ -7,6 +7,7 @@
 3. [Design rational](#Design-rational)
 4. [Product biography](#Product-biography)
 5. [Reflection](#Reflection)
+6. [License](#License)
 
 ## Introduction
 
@@ -236,3 +237,7 @@ Although I did initially liked the focus of this goal the most, seeing as though
 I have read up some things about this happy flow coding pattern.
 What I would have done if I had more time, is to create a centralized store on the client, where all data lives for the current user, so that the initial page load might take a little longer, but then all the following requests to the server are handled in the background, while the store is being updated synchronously. This results in a happy flow, where the user (ideally) never has to wait for responses from a server, which makes it look like everything works in a real-time way, while in fact it just stores things on the client immediately, while asynchronously sending the request to the server, only giving an error and tracing back when the server responses with something else than status 200.
 Taking on this pattern is really interesting, since it also takes on the challenge of increasing perceived performance, which is part of the Performance Matters course.
+
+## License
+
+This repository is licensed as [MIT](LICENSE) by [Maikel van Veen](https://github.com/maikxx).
