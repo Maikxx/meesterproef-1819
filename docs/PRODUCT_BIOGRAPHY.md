@@ -1,6 +1,19 @@
 # Product Biography
 
+## Table of Contents
+
+* [Design Brief & Planning](#Design-Brief-&-Planning)
+    * [Design Brief](#Design-Brief)
+    * [Planning](#Planning)
+* [Research & Inspiration](#Research-&-Inspiration)
+* [Ideas & Insights](#Ideas-&-Insights)
+* [Product Development](#Product-Development)
+
 ## Design Brief & Planning
+
+### Design Brief
+
+<!-- TODO -->
 
 ### Planning
 
@@ -20,3 +33,13 @@
 To view the changes (which there are a lot of) to the planning, please refer to [the process file](./PROCESS.md).
 
 ## Research & Inspiration
+
+<!-- TODO -->
+
+## Ideas & Insights
+
+<!-- TODO -->
+
+## Product Development
+
+<!-- TODO -->
