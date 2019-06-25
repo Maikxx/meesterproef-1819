@@ -34,7 +34,22 @@ To view the changes (which there are a lot of) to the planning, please refer to 
 
 ## Research & Inspiration
 
-<!-- TODO -->
+Before even starting the project, I started to research the case a little bit more, with the data Wallscope provided to us.
+
+The first article I read was about [triple stores](https://medium.com/wallscope/linked-data-a-conceptual-exploration-9860a1f44d68?source=friends_link&sk=a4a70e4b3af9326157a0386981a0a84f). After reading this article from them it kind of made sense, but still kind of didn't, because I didn't see the benefit of using this over joined SQL tables with described relations.
+After taking some time to take this information in, it started to make sense, seeing as the relations are set in the data explicitly, instead of implicitly, which can (on large scale applications), save a lot of time thinking about relations.
+
+During the first few days of the project, we all took upon ourselves to find inspirational interfaces which could be meaningful to us.
+We mainly started to look at inspiration for _dashboards_ and _native mobile applications_, as well as _infographics_, _charts_, _graphs_ and _data visualizations_.
+
+As a team we created a shared [Pinterest board](https://nl.pinterest.com/chelsea_doelema/wallscope-web-dev/) to store our inspiration research in, on which I also participated to search for inspiration.
+
+As a team, we also did an interview with a medical student in week 4.
+I wasn't the interview leader, but came up with a few smart questions for the person on the fly. For example, since we created designs in a so called **dark mode** (mainly because of my own personal feelings towards **non-dark mode** interfaces), I asked him if he would rather use a **light mode** over a dark mode.
+This question came up to me, because he said that he worked barely late at night, which is when dark modes are most often used.
+He felt the interfaces color scheme was a little too dark and depressing for working during the day, and would feel like having the light mode by default over the dark mode.
+
+For further detail on the interview and what other things came from it, please refer to [this document](https://github.com/Maikxx/360-wallscope/blob/master/docs/USER_TEST.md).
 
 ## Ideas & Insights
 
