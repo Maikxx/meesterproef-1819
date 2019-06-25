@@ -57,13 +57,32 @@ He felt the interfaces color scheme was a little too dark and depressing for wor
 
 For further detail on the interview and what other things came from it, please refer to [this document](https://github.com/Maikxx/360-wallscope/blob/master/docs/USER_TEST.md).
 
+As a learning goal that I set for myself, I wanted to learn something about unit testing (in Node applications specifically).
+
+Here is what I found, and used as a basis to write my [article about unit testing](https://github.com/Maikxx/weekly-nerd-1819/blob/master/articles/UNIT_TESTING.md):
+
+* [https://www.tsmean.com/articles/how-to-write-a-typescript-library/unit-testing/]()
+* [https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2?gi=cb0aac915670]()
+* [https://medium.com/@RupaniChirag/writing-unit-tests-in-typescript-d4719b8a0a40]()
+* [https://wanago.io/2019/02/04/typescript-express-testing/]()
+* [https://wanago.io/2019/02/04/typescript-express-testing/]()
+* [https://mochajs.org/]()
+* [https://www.chaijs.com/]()
+
 ## Ideas & Insights
 
-<!-- TODO -->
+From researching **unit testing** applications with TypeScript, Mocha and Chai, I learned that this is a whole new can of worms to open.
+I found it to be very difficult to combine my personal goal to learn a bit about unit testing with the development of the project, which is why I didn't go very far in depth.
+When I did a unit test on some piece of code I took for granted though, it did break, twice. Once because of a typo, and the other time because it was just bad code.
+This lead me to forget the fact to take everything for granted. I could really see the use in unit testing after this, although creating fake mocks and integrating tests in the code with database calls provided to be way too difficult.
+
+After performing the **user test**, though, I got reminded to the fact that no one human is alike, and that my personal thoughts didn't overlap with a potential users thoughts.
+This was very much the truth in the case of the **dark mode** of the application.
+I always have every application that has a dark mode, switched to dark mode, always. So after testing, it appeared that this application was not really the right place for a dark mode (at least for that users context).
 
 ## Product Development
 
-Although I did personally not sketch a lot of things during this project, I did keep a [process document](./PROCESS.md) up-to-date.
+Although I did personally not sketch a lot of things during this project, I did keep a [process document](./PROCESS.md) up-to-date and also created a [simple design](https://github.com/Maikxx/360-wallscope/blob/master/docs/BRIEFING_3.md).
 
 Also, to take a look at what particular things I worked on in this project, feel free to take a look here, at the [GitHub project](https://github.com/Maikxx/360-wallscope/projects/1), where we all assigned tasks to ourselves to take on.
 
