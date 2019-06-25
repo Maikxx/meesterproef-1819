@@ -63,4 +63,8 @@ For further detail on the interview and what other things came from it, please r
 
 ## Product Development
 
-<!-- TODO -->
+Although I did personally not sketch a lot of things during this project, I did keep a [process document](./PROCESS.md) up-to-date.
+
+Also, to take a look at what particular things I worked on in this project, feel free to take a look here, at the [GitHub project](https://github.com/Maikxx/360-wallscope/projects/1), where we all assigned tasks to ourselves to take on.
+
+To view the final application, [click here](https://wallscope.herokuapp.com).
