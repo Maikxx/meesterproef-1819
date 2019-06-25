@@ -44,6 +44,12 @@ We mainly started to look at inspiration for _dashboards_ and _native mobile app
 
 As a team we created a shared [Pinterest board](https://nl.pinterest.com/chelsea_doelema/wallscope-web-dev/) to store our inspiration research in, on which I also participated to search for inspiration.
 
+We also received some of their current visualizations, which I felt like definitely needed improvement, due to the fact that they may or may not convey meaning, but look like crap.
+
+* [Prescribed medicines](https://www.isdscotland.org/Health-Topics/Prescribing-and-Medicines/Publications/2019-05-14/visualisation.asp)
+* [A&E Waiting times](https://www.isdscotland.org/Health-Topics/Emergency-Care/Publications/2019-05-07/Summary/index.asp)
+* [Mental health](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/?28376406432)
+
 As a team, we also did an interview with a medical student in week 4.
 I wasn't the interview leader, but came up with a few smart questions for the person on the fly. For example, since we created designs in a so called **dark mode** (mainly because of my own personal feelings towards **non-dark mode** interfaces), I asked him if he would rather use a **light mode** over a dark mode.
 This question came up to me, because he said that he worked barely late at night, which is when dark modes are most often used.
