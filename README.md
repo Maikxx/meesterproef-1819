@@ -6,6 +6,7 @@
 2. [Focus points](#Focus-points)
 3. [Content](#Content)
 4. [Stakeholders](#Stakeholders)
+5. [Design decisions](#Design-decisions)
 5. [License](#License)
 
 ## Introduction
@@ -73,6 +74,14 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 The context will be mainly indoors and while people are focussed on their laptop.
 The people that are using the system will be mostly looking for something specific.
 For example, students are doing research for an upcoming test or journalists that are looking for data to use as a base for infographics.
+
+## Design decisions
+
+Our products most important design decisions were the following:
+
+* Light / Dark mode
+* Saving your research progress in boards
+* Linking pieces of data together in multiple ways
 
 ## License
 
