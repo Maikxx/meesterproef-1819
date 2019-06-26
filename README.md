@@ -7,7 +7,8 @@
 3. [Content](#Content)
 4. [Stakeholders](#Stakeholders)
 5. [Design decisions](#Design-decisions)
-5. [License](#License)
+6. [User Goal](#User-goal)
+7. [License](#License)
 
 ## Introduction
 
@@ -82,6 +83,10 @@ Our products most important design decisions were the following:
 * Light / Dark mode
 * Saving your research progress in boards
 * Linking pieces of data together in multiple ways
+
+## User Goal
+
+A good user goal to test is the application flow, and if all the functionalities of the application make sense to the target audience.
 
 ## License
 
