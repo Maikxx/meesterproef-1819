@@ -5,7 +5,8 @@
 1. [Introduction](#Introduction)
 2. [Focus points](#Focus-points)
 3. [Content](#Content)
-4. [License](#License)
+4. [Stakeholders](#Stakeholders)
+5. [License](#License)
 
 ## Introduction
 
@@ -49,6 +50,29 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 * [Design rational](https://github.com/Maikxx/360-wallscope/blob/master/docs/DESIGN_RATIONAL.md)
 * [Product biography](./docs/PRODUCT_BIOGRAPHY.md)
 * [Reflection](./docs/REFLECTION.md)
+
+## Stakeholders
+
+* **NHS Scotland**
+    Provide data in cooperation with ISD.
+* **ISD Scotland**
+    Provide data to the users, through their online platform.
+* **Wallscope**
+    Create solutions, to make data more manageable. So that users do not get lost in a maze of data, but are able to retrieve this easily.
+* **The Curious**
+    They are not sure what they want yet and are drawn in by ideas. They mainly want an unbiased point of view.
+* **The Detailed**
+    They want to fully understand an issue, to connect all the dots to improve the system.
+* **The Focused**
+    They know what they want and want easy access to the data.
+* **The Diggers**
+    They need raw data, to conduct their own research and connect the unconnected.
+
+## Context
+
+The context will be mainly indoors and while people are focussed on their laptop.
+The people that are using the system will be mostly looking for something specific.
+For example, students are doing research for an upcoming test or journalists that are looking for data to use as a base for infographics.
 
 ## License
 
