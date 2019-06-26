@@ -48,7 +48,6 @@ The project repository can be found [here](https://github.com/Maikxx/360-wallsco
 
 ## Content
 
-* [Process](./docs/PROCESS.md)
 * [Design rational](https://github.com/Maikxx/360-wallscope/blob/master/docs/DESIGN_RATIONAL.md)
 * [Product biography](./docs/PRODUCT_BIOGRAPHY.md)
 * [Reflection](./docs/REFLECTION.md)
