@@ -13,7 +13,12 @@
 
 ### Design Brief
 
-<!-- TODO -->
+### Objectives & Goals
+
+Initially the client (Wallscope) wanted to have effectively a redesign of the NHS website.
+From the start, I thought this was a really boring task, which killed all my motivation to work on this project.
+When we as a group contacted Joost about this, he also confirmed this feeling.
+Then we had to call with Wallscope to confirm our new idea.
 
 ### Planning
 
