@@ -3,8 +3,18 @@
 ## Table of Contents
 
 * [Process](#Process)
+    * [Week 1](#Week-1)
+    * [Week 2](#Week-2)
+    * [Week 3](#Week-3)
+    * [Week 4](#Week-4)
+    * [Week 5](#Week-5)
 * [Design Brief & Planning](#Design-Brief-&-Planning)
     * [Design Brief](#Design-Brief)
+        * [Objectives & Goals](#Objectives-&-Goals)
+        * [Budget](#Budget)
+        * [Target Audience](#Target-audience)
+        * [Project Scope](#Project-Scope)
+        * [Available Materials](#Available-Materials)
     * [Planning](#Planning)
 * [Research & Inspiration](#Research-&-Inspiration)
 * [Ideas & Insights](#Ideas-&-Insights)
@@ -160,12 +170,35 @@ I took upon me the more technical and otherwise difficult issues on me.
 
 ### Design Brief
 
-### Objectives & Goals
+#### Objectives & Goals
 
 Initially the client (Wallscope) wanted to have effectively a redesign of the NHS website.
 From the start, I thought this was a really boring task, which killed all my motivation to work on this project.
 When we as a group contacted Joost about this, he also confirmed this feeling.
 Then we had to call with Wallscope to confirm our new idea.
+
+#### Budget
+
+Nothing but love.
+
+#### Target Audience
+
+(Scottish) Medical students and researchers.
+For more detail about this subject, please take a look [here](https://github.com/Maikxx/360-wallscope/blob/master/docs/DESIGN_RATIONAL.md).
+
+#### Project Scope
+
+Create a functional application, powered by a concept, to show off our concept in full glory.
+
+#### Available Materials
+
+Wallscope has got a design color palette for the NHS website, unfortunately they did not sent that to us.
+They also do have a logo for the NHS website, however this logo does not fit the new application, meaning we had to design our own from scratch.
+
+#### Overall Style
+
+Wallscope has expressed multiple times (although, too late for us to fix), that they preferred to have a light mode over a dark mode.
+This is due to the fact that government agencies in Scotland always have white backgrounds.
 
 ### Planning
 
